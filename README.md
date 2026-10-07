@@ -145,7 +145,7 @@ Please also cite the archived software and data release:
 
 > Khan, M. A. et al. (2026). Wind resources and techno-economic potential
 > over Pakistan: Code and derived data (Version 1.0.0). Zenodo.
-> [Insert Zenodo DOI after release.]
+> https://doi.org/10.5281/zenodo.23214623
 
 ## License
 
