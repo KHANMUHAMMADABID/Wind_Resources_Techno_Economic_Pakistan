@@ -137,7 +137,7 @@ mgr
 
 Please cite the associated article:
 
-> Khan, M. A. et al. *Wind resources and techno-economic potential over
+> Khan, M. A. et al. (2026) *Wind resources and techno-economic potential over
 > Pakistan from observations and reanalysis*. Modeling Earth Systems and
 > Environment. [Insert final DOI after publication.]
 
