@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 message: "If you use this repository, please cite the associated article and software release."
-title: "Wind Resources and Techno-Economic Potential over Pakistan"
+title: "Wind resources and techno-economic potential over Pakistan from observations and reanalysis"
 type: software
 version: 1.0.0
 authors:
@@ -14,3 +14,8 @@ abstract: >
   evaluating wind resources, reanalysis performance, wind-speed trends,
   spatial interpolation, turbine performance, emissions reduction, and
   techno-economic potential over Pakistan.
+
+identifiers:
+  - description: "Article-associated versioned software archive"
+    type: doi
+    value: "10.5281/zenodo.23214623"
