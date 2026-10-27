@@ -137,7 +137,7 @@ mgr
 
 Please cite the associated article:
 
-> Khan, M. A., Khatun, A. A., Dairaku, K., Nadeem, M. U., Humam, I. A., Ebiendele, P., Adigun, P., Brhane, E. S., & Hong, N. N. K. (2026). Wind resources and techno-economic potential over Pakistan from observations and reanalysis. Modeling Earth Systems and Environment, 12(6). https://doi.org/10.1007/s40808-026-02939-w 
+> Khan, M. A., Khatun, A. A., Dairaku, K., Nadeem, M. U., Humam, I. A., Ebiendele, P., Adigun, P., Brhane, E. S., & Hong, N. N. K. (2026). Wind resources and techno-economic potential over Pakistan from observations and reanalysis. *Modeling Earth Systems and Environment*, 12(6). https://doi.org/10.1007/s40808-026-02939-w 
 
 Please also cite the archived software and data release:
 
